@@ -1,0 +1,13 @@
+.header-searchbox{
+    height: 100%;
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-searchbox input{
+    width: 250px;
+    height: 30px;
+    border: 1px solid #e5e5ee;
+    background-color: #888888;
+}
